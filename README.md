@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Soy HUGO ESTEBAN AGÜERO
+
+🚀 NestJS | ExpressJS | TypeScript | MongoDB | PostgreSQL | TypeORM | React
+
 
 <!--
 **hugoesteban/hugoesteban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

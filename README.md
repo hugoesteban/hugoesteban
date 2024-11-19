@@ -1,4 +1,4 @@
-## 👋 Soy HUGO ESTEBAN AGÜERO
+## HUGO ESTEBAN AGÜERO
 
 🚀 NestJS | ExpressJS | TypeScript | MongoDB | PostgreSQL | TypeORM | React
 

@@ -28,3 +28,4 @@ La labor docente me ha permitido desarrollar habilidades blandas como la comunic
 Mi objetivo es continuar creciendo como desarrollador, integrando mi formación con nuevos conocimientos y habilidades. Aspiro a afrontar cada desafío profesional con una visión amplia que no solo considere los aspectos técnicos, sino que también integre funcionalidad, atención al detalle y adaptabilidad a las necesidades específicas, logrando resultados que generen un impacto significativo.
 
 Si deseas colaborar conmigo, conocer más sobre mi experiencia o discutir proyectos en los que pueda aportar valor, no dudes en contactarme. Estaré encantado de conversar y explorar nuevas oportunidades.
+📫 profehugoaguero@gmail.com
